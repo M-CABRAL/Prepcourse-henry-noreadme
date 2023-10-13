@@ -1,0 +1,4 @@
+segunda de prueba de github 13/10
+touch crea archivo 
+cd abre archivo
+mkdir crea carpeta 
